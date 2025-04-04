@@ -1,0 +1,25 @@
+Meu nome é henrique casprek
+mumero 13
+ 2 B
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+    <script src="p5.collide2d.js"></script>
+  </body>
+</html>
+O GitHub Pages é um serviço de hospedagem de sites estáticos, que permite publicar sites na internet. Ele é um recurso do GitHub e pode ser usado para: 
+Hospedar sites pessoais, de empresas ou organizações
+Publicar documentação de projetos
+Criar blogs online
+Criar landing pages
+O GitHub Pages usa arquivos HTML, CSS e JavaScript de um repositório no GitHub. Os arquivos podem ser executados por meio de um processo de compilação e publicados como um site. 
